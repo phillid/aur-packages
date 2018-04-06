@@ -64,3 +64,6 @@
 [submodule "blind-git"]
 	path = blind-git
 	url = aur:blind-git.git
+[submodule "mount-gtk"]
+	path = mount-gtk
+	url = aur:mount-gtk.git
