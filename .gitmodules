@@ -1,0 +1,66 @@
+[submodule "aa3d"]
+	path = aa3d
+	url = aur:aa3d.git
+[submodule "clamfs"]
+	path = clamfs
+	url = aur:clamfs.git
+[submodule "qbrew"]
+	path = qbrew
+	url = aur:qbrew.git
+[submodule "wkhtmltopdf-static"]
+	path = wkhtmltopdf-static
+	url = aur:wkhtmltopdf-static.git
+[submodule "perl-bot-basicbot"]
+	path = perl-bot-basicbot
+	url = aur:perl-bot-basicbot.git
+[submodule "ruby-rest-client"]
+	path = ruby-rest-client
+	url = aur:ruby-rest-client.git
+[submodule "python2-simpleparse"]
+	path = python2-simpleparse
+	url = aur:python2-simpleparse.git
+[submodule "mutt-kiss"]
+	path = mutt-kiss
+	url = aur:mutt-kiss.git
+[submodule "z80asm"]
+	path = z80asm
+	url = aur:z80asm.git
+[submodule "cattle"]
+	path = cattle
+	url = aur:cattle.git
+[submodule "beef"]
+	path = beef
+	url = aur:beef.git
+[submodule "paramano"]
+	path = paramano
+	url = aur:paramano.git
+[submodule "dodo-git"]
+	path = dodo-git
+	url = aur:dodo-git.git
+[submodule "sent-git"]
+	path = sent-git
+	url = aur:sent-git.git
+[submodule "farbfeld"]
+	path = farbfeld
+	url = aur:farbfeld.git
+[submodule "farbfeld-git"]
+	path = farbfeld-git
+	url = aur:farbfeld-git.git
+[submodule "brewtarget"]
+	path = brewtarget
+	url = aur:brewtarget.git
+[submodule "lightdm-webkit-theme-petrichor-git"]
+	path = lightdm-webkit-theme-petrichor-git
+	url = aur:lightdm-webkit-theme-petrichor-git.git
+[submodule "gimp-plugin-make-anaglyph"]
+	path = gimp-plugin-make-anaglyph
+	url = aur:gimp-plugin-make-anaglyph.git
+[submodule "perl-poe-component-irc"]
+	path = perl-poe-component-irc
+	url = aur:perl-poe-component-irc.git
+[submodule "ttf-oxygen"]
+	path = ttf-oxygen
+	url = aur:ttf-oxygen.git
+[submodule "blind-git"]
+	path = blind-git
+	url = aur:blind-git.git
