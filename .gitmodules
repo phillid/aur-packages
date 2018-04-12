@@ -1,69 +1,69 @@
 [submodule "aa3d"]
 	path = aa3d
-	url = aur:aa3d.git
+	url = aur.archlinux.org:aa3d.git
 [submodule "clamfs"]
 	path = clamfs
-	url = aur:clamfs.git
+	url = aur.archlinux.org:clamfs.git
 [submodule "qbrew"]
 	path = qbrew
-	url = aur:qbrew.git
+	url = aur.archlinux.org:qbrew.git
 [submodule "wkhtmltopdf-static"]
 	path = wkhtmltopdf-static
-	url = aur:wkhtmltopdf-static.git
+	url = aur.archlinux.org:wkhtmltopdf-static.git
 [submodule "perl-bot-basicbot"]
 	path = perl-bot-basicbot
-	url = aur:perl-bot-basicbot.git
+	url = aur.archlinux.org:perl-bot-basicbot.git
 [submodule "ruby-rest-client"]
 	path = ruby-rest-client
-	url = aur:ruby-rest-client.git
+	url = aur.archlinux.org:ruby-rest-client.git
 [submodule "python2-simpleparse"]
 	path = python2-simpleparse
-	url = aur:python2-simpleparse.git
+	url = aur.archlinux.org:python2-simpleparse.git
 [submodule "mutt-kiss"]
 	path = mutt-kiss
-	url = aur:mutt-kiss.git
+	url = aur.archlinux.org:mutt-kiss.git
 [submodule "z80asm"]
 	path = z80asm
-	url = aur:z80asm.git
+	url = aur.archlinux.org:z80asm.git
 [submodule "cattle"]
 	path = cattle
-	url = aur:cattle.git
+	url = aur.archlinux.org:cattle.git
 [submodule "beef"]
 	path = beef
-	url = aur:beef.git
+	url = aur.archlinux.org:beef.git
 [submodule "paramano"]
 	path = paramano
-	url = aur:paramano.git
+	url = aur.archlinux.org:paramano.git
 [submodule "dodo-git"]
 	path = dodo-git
-	url = aur:dodo-git.git
+	url = aur.archlinux.org:dodo-git.git
 [submodule "sent-git"]
 	path = sent-git
-	url = aur:sent-git.git
+	url = aur.archlinux.org:sent-git.git
 [submodule "farbfeld"]
 	path = farbfeld
-	url = aur:farbfeld.git
+	url = aur.archlinux.org:farbfeld.git
 [submodule "farbfeld-git"]
 	path = farbfeld-git
-	url = aur:farbfeld-git.git
+	url = aur.archlinux.org:farbfeld-git.git
 [submodule "brewtarget"]
 	path = brewtarget
-	url = aur:brewtarget.git
+	url = aur.archlinux.org:brewtarget.git
 [submodule "lightdm-webkit-theme-petrichor-git"]
 	path = lightdm-webkit-theme-petrichor-git
-	url = aur:lightdm-webkit-theme-petrichor-git.git
+	url = aur.archlinux.org:lightdm-webkit-theme-petrichor-git.git
 [submodule "gimp-plugin-make-anaglyph"]
 	path = gimp-plugin-make-anaglyph
-	url = aur:gimp-plugin-make-anaglyph.git
+	url = aur.archlinux.org:gimp-plugin-make-anaglyph.git
 [submodule "perl-poe-component-irc"]
 	path = perl-poe-component-irc
-	url = aur:perl-poe-component-irc.git
+	url = aur.archlinux.org:perl-poe-component-irc.git
 [submodule "ttf-oxygen"]
 	path = ttf-oxygen
-	url = aur:ttf-oxygen.git
+	url = aur.archlinux.org:ttf-oxygen.git
 [submodule "blind-git"]
 	path = blind-git
-	url = aur:blind-git.git
+	url = aur.archlinux.org:blind-git.git
 [submodule "mount-gtk"]
 	path = mount-gtk
-	url = aur:mount-gtk.git
+	url = aur.archlinux.org:mount-gtk.git
