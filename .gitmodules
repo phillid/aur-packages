@@ -67,3 +67,6 @@
 [submodule "mount-gtk"]
 	path = mount-gtk
 	url = aur.archlinux.org:mount-gtk.git
+[submodule "dwm"]
+	path = dwm
+	url = aur.archlinux.org:dwm.git
